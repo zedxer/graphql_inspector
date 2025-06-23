@@ -3,7 +3,8 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'LoggingLink.dart';
+import '../graphql_inspector.dart';
+
 
 class GraphQLLogScreen extends StatelessWidget {
   const GraphQLLogScreen({super.key});
