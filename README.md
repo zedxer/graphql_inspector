@@ -2,6 +2,22 @@
 
 A Flutter package to intercept and inspect GraphQL API requests and responses — inspired by tools like Chucker for Android and Postman. Ideal for debugging GraphQL requests in development builds.
 
+## 📁 Folder Structure
+
+```
+graphql_inspector/
+├── lib/
+│   └── src/
+│       ├── GraphQLLogScreen.dart
+│       └── LoggingLink.dart
+├── test/
+├── README.md
+├── pubspec.yaml
+├── LICENSE
+├── CHANGELOG.md
+└── ...
+```
+
 ## ✨ Features 
 
 - 📦 Logs every GraphQL query, mutation, and variables
