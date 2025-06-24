@@ -225,7 +225,7 @@ packages:
     source: hosted
     version: "5.2.1"
   graphql_flutter:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: graphql_flutter
       sha256: "49867a84a9243142d69a31075dbb9ff9468366827b0e5bfcdb3867abbe1d5ee6"
