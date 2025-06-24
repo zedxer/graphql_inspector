@@ -1,0 +1,15 @@
+example/ios
+example/android
+example/macos
+example/windows
+example/web
+.git/
+.idea/
+.vscode/
+.dart_tool/
+build/
+.DS_Store
+.metadata
+pubspec.lock
+graphql_inspector.iml
+.flutter-plugins-dependencies 
